@@ -1,0 +1,5 @@
+﻿Sestavení zahájeno v 11:16...
+1>------ Sestavování zahájeno: Projekt: Kalkulačka, konfigurace: Debug Any CPU ------
+1>  Kalkulačka -> C:\Users\c23slesingr\source\repos\Kalkulačka\Kalkulačka\bin\Debug\Kalkulačka.exe
+========== Build: úspěšné: 1, chybné: 0, aktuální: 0, vynechané: 0 ==========
+========== Sestavení dokončeno v 11:16 a trvalo 00,449 sekund ==========
